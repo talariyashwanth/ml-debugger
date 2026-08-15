@@ -25,7 +25,7 @@ def build_sample_classification(path: Path) -> Path:
         + np.where(contract == "Month-to-month", 1.5, 0.0)
         + rng.normal(0, 0.5, size=n)
     )
-    churn = (churn_score > np.quantile(churn_score, 0.73)).astype(int)
+    churn = (churn_score > np.quantile(churn_score, 0.85)).astype(int)
     customer_status = np.where(churn == 1, "Churned", "Active")
 
     df = pd.DataFrame(

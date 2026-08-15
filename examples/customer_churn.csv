@@ -1,0 +1,501 @@
+customer_id,tenure,monthly_charges,support_calls,contract,region,customer_status,churn
+CUST-00000,7,63.11,3,Month-to-month,East,Churned,1
+CUST-00001,55,29.85,2,One year,East,Active,0
+CUST-00002,47,35.66,4,Two year,West,Active,0
+CUST-00003,32,107.58,4,One year,West,Churned,1
+CUST-00004,31,39.25,2,Month-to-month,South,Active,0
+CUST-00005,61,43.06,1,Month-to-month,West,Active,0
+CUST-00006,7,101.74,0,Month-to-month,North,Active,0
+CUST-00007,50,,0,Month-to-month,South,Active,0
+CUST-00008,15,41.57,1,One year,East,Active,0
+CUST-00009,7,57.64,1,Month-to-month,North,Churned,1
+CUST-00010,38,71.83,4,One year,South,Active,0
+CUST-00011,70,99.57,0,Two year,East,Active,0
+CUST-00012,53,45.26,1,Two year,East,Active,0
+CUST-00013,55,60.09,1,Month-to-month,North,Active,0
+CUST-00014,51,80.55,1,Month-to-month,South,Active,0
+CUST-00015,56,73.7,0,Month-to-month,North,Churned,1
+CUST-00016,37,57.48,2,Month-to-month,East,Active,0
+CUST-00017,10,62.32,4,Month-to-month,South,Churned,1
+CUST-00018,60,37.5,0,Month-to-month,East,Active,0
+CUST-00019,32,60.24,2,One year,East,Active,0
+CUST-00020,36,59.67,1,Month-to-month,West,Active,0
+CUST-00021,27,69.64,2,Two year,North,Active,0
+CUST-00022,13,53.89,2,Month-to-month,West,Churned,1
+CUST-00023,66,74.43,3,Month-to-month,North,Active,0
+CUST-00024,56,85.25,4,Month-to-month,North,Churned,1
+CUST-00025,46,68.11,3,Month-to-month,North,Active,0
+CUST-00026,29,72.04,3,Month-to-month,North,Active,0
+CUST-00027,59,66.06,2,Two year,West,Active,0
+CUST-00028,39,65.0,3,Month-to-month,North,Active,0
+CUST-00029,32,50.57,3,Month-to-month,East,Churned,1
+CUST-00030,32,71.33,4,One year,South,Active,0
+CUST-00031,17,63.05,3,Month-to-month,North,Churned,1
+CUST-00032,7,106.86,2,One year,South,Churned,1
+CUST-00033,40,96.47,4,Month-to-month,North,Churned,1
+CUST-00034,64,72.72,2,Two year,South,Active,0
+CUST-00035,5,49.74,3,Month-to-month,East,Churned,1
+CUST-00036,61,,1,Month-to-month,East,Active,0
+CUST-00037,59,88.82,1,One year,South,Active,0
+CUST-00038,20,70.25,1,Two year,West,Active,0
+CUST-00039,45,74.6,2,Month-to-month,East,Churned,1
+CUST-00040,12,30.11,0,One year,South,Active,0
+CUST-00041,54,83.55,3,Month-to-month,South,Active,0
+CUST-00042,50,74.09,1,Month-to-month,North,Active,0
+CUST-00043,26,42.79,1,Month-to-month,West,Active,0
+CUST-00044,5,55.57,0,One year,West,Active,0
+CUST-00045,69,70.27,4,Month-to-month,South,Active,0
+CUST-00046,32,66.05,1,One year,East,Active,0
+CUST-00047,64,59.16,6,Month-to-month,East,Active,0
+CUST-00048,49,62.93,1,Two year,East,Active,0
+CUST-00049,56,59.96,1,Two year,North,Active,0
+CUST-00050,54,68.05,3,Month-to-month,West,Active,0
+CUST-00051,14,94.43,1,Month-to-month,West,Churned,1
+CUST-00052,26,13.67,3,Month-to-month,West,Active,0
+CUST-00053,34,60.26,2,Two year,West,Active,0
+CUST-00054,36,68.53,3,Month-to-month,West,Active,0
+CUST-00055,4,70.92,1,One year,East,Active,0
+CUST-00056,39,57.56,2,Month-to-month,North,Active,0
+CUST-00057,11,29.87,2,One year,South,Active,0
+CUST-00058,53,71.56,4,Month-to-month,North,Active,0
+CUST-00059,49,99.55,1,One year,North,Active,0
+CUST-00060,66,34.32,2,Two year,West,Active,0
+CUST-00061,53,82.28,3,Month-to-month,West,Active,0
+CUST-00062,27,58.43,2,Two year,East,Active,0
+CUST-00063,69,63.77,0,Month-to-month,East,Active,0
+CUST-00064,30,43.94,3,Month-to-month,North,Active,0
+CUST-00065,24,58.31,1,Two year,North,Active,0
+CUST-00066,65,91.0,1,One year,West,Active,0
+CUST-00067,27,76.65,0,One year,South,Active,0
+CUST-00068,6,99.65,3,Month-to-month,East,Churned,1
+CUST-00069,34,88.55,2,Month-to-month,South,Churned,1
+CUST-00070,57,73.78,4,Month-to-month,North,Churned,1
+CUST-00071,14,99.88,2,One year,West,Active,0
+CUST-00072,33,73.78,3,Month-to-month,West,Churned,1
+CUST-00073,10,81.56,3,Month-to-month,East,Churned,1
+CUST-00074,49,59.07,1,Month-to-month,South,Active,0
+CUST-00075,34,66.33,2,Month-to-month,East,Active,0
+CUST-00076,24,51.05,1,Month-to-month,West,Active,0
+CUST-00077,17,84.79,1,Month-to-month,East,Active,0
+CUST-00078,41,41.43,2,Two year,South,Active,0
+CUST-00079,48,80.65,3,One year,South,Active,0
+CUST-00080,67,61.19,3,Month-to-month,East,Active,0
+CUST-00081,32,88.42,2,One year,South,Active,0
+CUST-00082,12,80.02,5,Two year,East,Churned,1
+CUST-00083,60,101.41,2,Month-to-month,North,Active,0
+CUST-00084,45,79.62,3,Month-to-month,North,Churned,1
+CUST-00085,50,33.56,3,Month-to-month,West,Active,0
+CUST-00086,7,63.66,2,Month-to-month,South,Churned,1
+CUST-00087,23,41.56,0,One year,South,Active,0
+CUST-00088,55,54.63,0,Two year,East,Active,0
+CUST-00089,60,95.22,3,Month-to-month,South,Churned,1
+CUST-00090,31,,1,One year,West,Active,0
+CUST-00091,58,51.02,3,Month-to-month,North,Active,0
+CUST-00092,60,44.73,0,One year,West,Active,0
+CUST-00093,28,65.66,1,One year,North,Active,0
+CUST-00094,64,40.67,3,Month-to-month,South,Active,0
+CUST-00095,21,51.58,4,Month-to-month,East,Churned,1
+CUST-00096,18,71.24,3,One year,West,Active,0
+CUST-00097,49,88.11,1,Two year,North,Active,0
+CUST-00098,46,77.18,3,Month-to-month,East,Active,0
+CUST-00099,10,19.17,4,Month-to-month,North,Active,0
+CUST-00100,60,71.09,2,Month-to-month,North,Active,0
+CUST-00101,15,66.44,8,One year,West,Churned,1
+CUST-00102,58,73.28,2,One year,East,Active,0
+CUST-00103,1,97.32,2,One year,South,Active,0
+CUST-00104,57,23.74,3,One year,East,Active,0
+CUST-00105,56,53.18,0,Two year,South,Active,0
+CUST-00106,56,76.82,3,Two year,South,Active,0
+CUST-00107,48,33.37,1,Month-to-month,South,Active,0
+CUST-00108,34,94.52,2,One year,South,Active,0
+CUST-00109,51,72.37,1,Month-to-month,West,Active,0
+CUST-00110,20,81.93,3,Month-to-month,South,Churned,1
+CUST-00111,56,53.58,1,Two year,South,Active,0
+CUST-00112,40,,3,One year,East,Active,0
+CUST-00113,33,86.37,2,Two year,West,Active,0
+CUST-00114,36,69.66,3,Month-to-month,South,Churned,1
+CUST-00115,41,69.69,3,One year,West,Active,0
+CUST-00116,3,70.41,3,Month-to-month,South,Churned,1
+CUST-00117,10,47.73,1,Month-to-month,East,Active,0
+CUST-00118,18,62.05,4,Month-to-month,West,Churned,1
+CUST-00119,9,61.95,1,One year,South,Active,0
+CUST-00120,32,72.67,4,Month-to-month,North,Churned,1
+CUST-00121,48,85.0,1,Two year,East,Active,0
+CUST-00122,47,43.83,1,Month-to-month,North,Active,0
+CUST-00123,34,62.5,0,Month-to-month,South,Active,0
+CUST-00124,61,94.63,0,One year,West,Active,0
+CUST-00125,41,50.13,0,Month-to-month,South,Active,0
+CUST-00126,6,48.55,2,Two year,East,Active,0
+CUST-00127,55,69.05,2,One year,East,Active,0
+CUST-00128,41,81.89,1,Month-to-month,North,Active,0
+CUST-00129,46,65.23,3,One year,South,Active,0
+CUST-00130,41,91.58,2,One year,East,Active,0
+CUST-00131,40,82.14,3,One year,North,Active,0
+CUST-00132,7,81.84,1,Two year,South,Active,0
+CUST-00133,40,76.08,2,One year,South,Active,0
+CUST-00134,57,111.55,0,One year,West,Active,0
+CUST-00135,22,60.9,1,Month-to-month,North,Active,0
+CUST-00136,43,24.93,3,One year,West,Active,0
+CUST-00137,3,97.09,2,Two year,South,Active,0
+CUST-00138,25,55.85,4,One year,East,Active,0
+CUST-00139,32,67.16,3,One year,East,Active,0
+CUST-00140,70,91.19,3,Month-to-month,South,Active,0
+CUST-00141,16,32.95,0,One year,West,Active,0
+CUST-00142,20,39.97,2,Two year,North,Active,0
+CUST-00143,30,,4,Month-to-month,North,Active,0
+CUST-00144,71,49.12,2,Month-to-month,West,Active,0
+CUST-00145,61,73.79,2,One year,East,Active,0
+CUST-00146,3,75.48,0,Month-to-month,West,Churned,1
+CUST-00147,17,70.53,2,One year,South,Active,0
+CUST-00148,59,36.74,2,Month-to-month,North,Active,0
+CUST-00149,5,18.8,2,Month-to-month,North,Active,0
+CUST-00150,61,66.09,1,One year,South,Active,0
+CUST-00151,20,55.56,1,One year,North,Active,0
+CUST-00152,66,74.19,1,One year,West,Active,0
+CUST-00153,21,,1,One year,North,Active,0
+CUST-00154,31,67.76,1,One year,West,Active,0
+CUST-00155,47,80.2,2,One year,North,Active,0
+CUST-00156,9,69.58,0,One year,North,Active,0
+CUST-00157,40,,1,One year,South,Active,0
+CUST-00158,36,50.91,1,One year,North,Active,0
+CUST-00159,56,61.41,2,Month-to-month,South,Active,0
+CUST-00160,71,68.94,0,Month-to-month,South,Active,0
+CUST-00161,48,81.41,0,One year,East,Active,0
+CUST-00162,30,57.13,1,Two year,East,Active,0
+CUST-00163,29,75.42,5,One year,North,Churned,1
+CUST-00164,30,59.68,1,Month-to-month,North,Active,0
+CUST-00165,58,62.65,3,One year,North,Active,0
+CUST-00166,23,81.59,4,Month-to-month,North,Churned,1
+CUST-00167,12,25.14,2,One year,North,Active,0
+CUST-00168,24,39.07,1,Two year,South,Active,0
+CUST-00169,2,35.36,0,One year,East,Active,0
+CUST-00170,8,18.33,3,One year,South,Active,0
+CUST-00171,7,51.43,4,Month-to-month,South,Churned,1
+CUST-00172,55,79.99,2,Month-to-month,South,Active,0
+CUST-00173,52,59.3,3,Two year,East,Active,0
+CUST-00174,50,68.96,1,One year,South,Active,0
+CUST-00175,33,86.78,0,One year,North,Active,0
+CUST-00176,51,91.55,1,Month-to-month,South,Active,0
+CUST-00177,12,63.62,1,Month-to-month,North,Active,0
+CUST-00178,64,92.07,2,Month-to-month,South,Churned,1
+CUST-00179,36,66.84,4,Month-to-month,West,Churned,1
+CUST-00180,67,48.25,4,Month-to-month,South,Active,0
+CUST-00181,11,53.11,0,Two year,North,Active,0
+CUST-00182,36,35.39,2,One year,East,Active,0
+CUST-00183,50,47.24,4,Month-to-month,North,Active,0
+CUST-00184,36,57.84,3,Month-to-month,North,Churned,1
+CUST-00185,32,81.07,2,Month-to-month,North,Churned,1
+CUST-00186,12,99.42,6,Two year,West,Active,0
+CUST-00187,28,37.36,3,Month-to-month,West,Active,0
+CUST-00188,17,72.86,4,One year,East,Active,0
+CUST-00189,22,44.19,2,Two year,East,Active,0
+CUST-00190,49,74.49,0,Month-to-month,East,Active,0
+CUST-00191,45,62.38,3,One year,East,Active,0
+CUST-00192,44,28.38,1,Two year,East,Active,0
+CUST-00193,26,83.57,3,Month-to-month,West,Churned,1
+CUST-00194,69,52.9,3,Month-to-month,East,Active,0
+CUST-00195,7,54.32,2,Two year,North,Active,0
+CUST-00196,25,43.6,1,Two year,South,Active,0
+CUST-00197,9,51.91,1,One year,West,Active,0
+CUST-00198,25,73.56,4,One year,South,Active,0
+CUST-00199,69,61.22,4,Month-to-month,North,Active,0
+CUST-00200,27,71.57,0,Two year,West,Active,0
+CUST-00201,65,72.24,3,Month-to-month,East,Active,0
+CUST-00202,36,91.41,3,Month-to-month,East,Active,0
+CUST-00203,50,58.14,2,One year,South,Active,0
+CUST-00204,33,35.46,0,Two year,North,Active,0
+CUST-00205,19,86.34,1,Two year,South,Active,0
+CUST-00206,55,58.37,3,Month-to-month,South,Active,0
+CUST-00207,69,87.29,1,Month-to-month,West,Active,0
+CUST-00208,19,72.67,2,Two year,South,Active,0
+CUST-00209,56,62.38,2,Two year,North,Active,0
+CUST-00210,19,71.98,6,One year,South,Active,0
+CUST-00211,51,104.02,6,One year,West,Active,0
+CUST-00212,57,106.54,2,Month-to-month,South,Active,0
+CUST-00213,32,66.39,1,Month-to-month,South,Active,0
+CUST-00214,53,68.2,0,Month-to-month,East,Active,0
+CUST-00215,20,86.52,4,Month-to-month,East,Churned,1
+CUST-00216,6,48.09,1,Month-to-month,South,Active,0
+CUST-00217,7,71.66,2,Two year,West,Active,0
+CUST-00218,32,64.48,3,Month-to-month,East,Active,0
+CUST-00219,65,71.28,1,Month-to-month,North,Active,0
+CUST-00220,10,48.33,1,One year,South,Active,0
+CUST-00221,33,33.21,3,Month-to-month,West,Active,0
+CUST-00222,50,23.54,5,Month-to-month,South,Active,0
+CUST-00223,15,42.65,1,One year,East,Active,0
+CUST-00224,52,55.83,4,Month-to-month,East,Active,0
+CUST-00225,22,59.14,3,One year,East,Active,0
+CUST-00226,58,103.74,2,Two year,West,Active,0
+CUST-00227,42,87.12,2,Month-to-month,North,Active,0
+CUST-00228,39,45.76,2,Two year,East,Active,0
+CUST-00229,13,71.95,3,Two year,East,Active,0
+CUST-00230,33,56.86,1,Two year,North,Active,0
+CUST-00231,61,59.31,1,One year,East,Active,0
+CUST-00232,2,68.71,1,One year,North,Active,0
+CUST-00233,54,77.38,4,One year,South,Active,0
+CUST-00234,35,58.21,4,One year,South,Active,0
+CUST-00235,52,86.28,3,Month-to-month,North,Active,0
+CUST-00236,48,42.16,3,Two year,West,Active,0
+CUST-00237,31,65.13,4,One year,North,Active,0
+CUST-00238,22,116.95,1,One year,South,Active,0
+CUST-00239,45,,1,Month-to-month,West,Active,0
+CUST-00240,10,93.66,3,Month-to-month,West,Churned,1
+CUST-00241,42,66.83,2,One year,North,Active,0
+CUST-00242,7,76.62,3,One year,South,Active,0
+CUST-00243,47,,1,Month-to-month,East,Active,0
+CUST-00244,45,61.59,2,Month-to-month,West,Active,0
+CUST-00245,6,49.41,1,Month-to-month,West,Active,0
+CUST-00246,54,73.61,0,One year,East,Active,0
+CUST-00247,30,47.97,2,Month-to-month,North,Active,0
+CUST-00248,56,78.31,4,Two year,West,Active,0
+CUST-00249,3,86.71,2,Month-to-month,North,Churned,1
+CUST-00250,13,72.33,1,Month-to-month,North,Churned,1
+CUST-00251,36,,1,Month-to-month,East,Active,0
+CUST-00252,14,74.08,2,One year,East,Active,0
+CUST-00253,24,58.83,0,Month-to-month,North,Churned,1
+CUST-00254,47,83.71,1,One year,North,Active,0
+CUST-00255,11,28.37,1,Two year,East,Active,0
+CUST-00256,49,58.29,6,Month-to-month,South,Churned,1
+CUST-00257,8,25.18,4,One year,East,Active,0
+CUST-00258,13,35.1,0,Month-to-month,South,Active,0
+CUST-00259,42,92.28,2,Month-to-month,East,Churned,1
+CUST-00260,57,82.9,3,Month-to-month,South,Churned,1
+CUST-00261,13,50.61,4,Month-to-month,South,Active,0
+CUST-00262,22,34.95,2,One year,South,Active,0
+CUST-00263,66,5.71,3,One year,East,Active,0
+CUST-00264,71,54.13,2,One year,East,Active,0
+CUST-00265,42,113.41,1,One year,East,Active,0
+CUST-00266,32,73.7,4,One year,East,Active,0
+CUST-00267,25,53.81,2,Month-to-month,North,Active,0
+CUST-00268,44,74.3,1,Month-to-month,West,Active,0
+CUST-00269,42,33.78,2,Month-to-month,East,Active,0
+CUST-00270,21,59.05,2,One year,East,Active,0
+CUST-00271,2,66.99,2,Two year,West,Active,0
+CUST-00272,11,63.28,4,Month-to-month,West,Churned,1
+CUST-00273,69,80.82,0,One year,East,Active,0
+CUST-00274,30,71.89,2,One year,West,Active,0
+CUST-00275,35,78.37,1,Two year,South,Active,0
+CUST-00276,34,51.23,1,One year,East,Active,0
+CUST-00277,56,82.96,2,One year,South,Active,0
+CUST-00278,5,97.58,1,One year,East,Active,0
+CUST-00279,6,45.6,3,Two year,North,Active,0
+CUST-00280,20,47.25,3,Month-to-month,West,Active,0
+CUST-00281,35,,3,Two year,North,Active,0
+CUST-00282,48,61.17,0,Month-to-month,East,Active,0
+CUST-00283,35,93.08,1,Two year,North,Active,0
+CUST-00284,32,56.15,1,Month-to-month,North,Active,0
+CUST-00285,67,94.1,4,Month-to-month,West,Churned,1
+CUST-00286,12,67.63,1,Month-to-month,West,Active,0
+CUST-00287,41,70.16,0,Month-to-month,North,Active,0
+CUST-00288,39,96.29,2,Month-to-month,North,Active,0
+CUST-00289,34,57.76,2,Month-to-month,West,Active,0
+CUST-00290,58,46.18,1,Month-to-month,West,Active,0
+CUST-00291,19,,3,Month-to-month,North,Active,0
+CUST-00292,68,74.05,2,One year,East,Active,0
+CUST-00293,24,33.68,3,Two year,South,Active,0
+CUST-00294,39,77.75,0,One year,East,Active,0
+CUST-00295,37,54.22,5,Month-to-month,South,Active,0
+CUST-00296,61,87.96,3,Month-to-month,North,Active,0
+CUST-00297,32,17.11,0,Two year,South,Active,0
+CUST-00298,21,49.27,1,Month-to-month,East,Active,0
+CUST-00299,2,31.27,2,Month-to-month,West,Active,0
+CUST-00300,26,48.48,3,Two year,North,Active,0
+CUST-00301,59,69.95,2,Two year,West,Active,0
+CUST-00302,1,61.42,6,Month-to-month,East,Churned,1
+CUST-00303,64,59.93,2,One year,West,Active,0
+CUST-00304,39,61.82,2,Month-to-month,West,Active,0
+CUST-00305,10,69.07,4,One year,North,Active,0
+CUST-00306,22,44.83,3,Month-to-month,North,Active,0
+CUST-00307,40,79.14,1,Month-to-month,West,Active,0
+CUST-00308,23,78.25,2,One year,North,Active,0
+CUST-00309,8,72.7,1,Month-to-month,North,Churned,1
+CUST-00310,48,76.13,2,One year,South,Active,0
+CUST-00311,48,70.93,2,Month-to-month,West,Active,0
+CUST-00312,9,105.7,3,Two year,West,Active,0
+CUST-00313,20,63.26,2,Two year,East,Active,0
+CUST-00314,18,58.86,2,Month-to-month,North,Active,0
+CUST-00315,47,49.93,0,One year,South,Active,0
+CUST-00316,52,44.35,5,Month-to-month,East,Active,0
+CUST-00317,52,40.11,2,Month-to-month,North,Active,0
+CUST-00318,67,47.22,4,Month-to-month,East,Active,0
+CUST-00319,55,63.59,4,Two year,North,Active,0
+CUST-00320,23,71.69,1,Two year,South,Active,0
+CUST-00321,8,66.02,0,Two year,North,Active,0
+CUST-00322,44,49.69,0,Two year,East,Active,0
+CUST-00323,66,83.0,1,Two year,West,Active,0
+CUST-00324,70,79.79,0,Month-to-month,North,Active,0
+CUST-00325,17,61.81,5,Two year,West,Active,0
+CUST-00326,17,51.94,3,One year,East,Churned,1
+CUST-00327,3,75.97,1,Month-to-month,West,Churned,1
+CUST-00328,11,68.76,2,One year,West,Active,0
+CUST-00329,40,36.04,2,Month-to-month,North,Active,0
+CUST-00330,39,63.64,2,Month-to-month,East,Active,0
+CUST-00331,27,70.24,2,Month-to-month,East,Active,0
+CUST-00332,23,47.01,3,Month-to-month,North,Active,0
+CUST-00333,59,68.8,2,Month-to-month,South,Active,0
+CUST-00334,33,35.9,2,Two year,West,Active,0
+CUST-00335,58,91.72,3,One year,East,Active,0
+CUST-00336,69,89.96,2,One year,South,Active,0
+CUST-00337,23,59.95,1,Month-to-month,South,Active,0
+CUST-00338,15,72.27,3,Month-to-month,West,Churned,1
+CUST-00339,68,16.8,3,Month-to-month,South,Active,0
+CUST-00340,46,41.87,4,Two year,North,Active,0
+CUST-00341,21,59.12,0,Month-to-month,East,Active,0
+CUST-00342,45,,3,One year,West,Active,0
+CUST-00343,37,79.29,3,One year,North,Active,0
+CUST-00344,65,104.95,1,One year,South,Active,0
+CUST-00345,19,41.47,0,Two year,South,Active,0
+CUST-00346,71,48.25,3,Month-to-month,North,Active,0
+CUST-00347,67,69.71,1,Two year,East,Active,0
+CUST-00348,13,97.22,2,One year,South,Active,0
+CUST-00349,12,40.55,2,One year,North,Active,0
+CUST-00350,38,69.98,3,One year,South,Active,0
+CUST-00351,4,101.43,4,Two year,West,Active,0
+CUST-00352,22,31.96,1,Two year,West,Active,0
+CUST-00353,31,39.38,7,Month-to-month,East,Churned,1
+CUST-00354,69,56.53,2,Two year,South,Active,0
+CUST-00355,71,54.59,5,One year,West,Active,0
+CUST-00356,11,81.25,2,Month-to-month,North,Churned,1
+CUST-00357,64,69.83,2,Two year,East,Active,0
+CUST-00358,7,29.5,2,Month-to-month,East,Active,0
+CUST-00359,54,75.31,0,One year,East,Active,0
+CUST-00360,61,53.45,2,Month-to-month,North,Active,0
+CUST-00361,64,90.49,2,Month-to-month,East,Active,0
+CUST-00362,16,52.45,0,Two year,East,Active,0
+CUST-00363,64,52.27,1,Month-to-month,West,Active,0
+CUST-00364,9,75.82,2,Month-to-month,North,Churned,1
+CUST-00365,37,80.26,0,Month-to-month,East,Active,0
+CUST-00366,34,73.96,1,Month-to-month,West,Active,0
+CUST-00367,23,31.29,1,Two year,South,Active,0
+CUST-00368,2,75.76,2,Two year,East,Active,0
+CUST-00369,55,44.31,0,Month-to-month,North,Active,0
+CUST-00370,24,69.71,2,One year,East,Active,0
+CUST-00371,47,36.53,2,Month-to-month,East,Active,0
+CUST-00372,30,73.93,1,One year,North,Active,0
+CUST-00373,27,48.87,4,Month-to-month,North,Churned,1
+CUST-00374,63,39.35,2,Month-to-month,East,Active,0
+CUST-00375,7,79.28,1,Month-to-month,North,Active,0
+CUST-00376,53,69.83,2,One year,South,Active,0
+CUST-00377,54,52.72,3,One year,North,Active,0
+CUST-00378,27,94.02,2,Month-to-month,West,Active,0
+CUST-00379,19,56.19,2,Two year,East,Active,0
+CUST-00380,1,65.64,0,One year,West,Active,0
+CUST-00381,67,70.38,1,Month-to-month,North,Active,0
+CUST-00382,68,52.61,1,Two year,North,Active,0
+CUST-00383,18,74.42,4,Two year,East,Active,0
+CUST-00384,3,54.33,2,Month-to-month,East,Churned,1
+CUST-00385,9,56.77,5,One year,West,Active,0
+CUST-00386,5,92.25,3,Month-to-month,West,Churned,1
+CUST-00387,60,,1,One year,West,Active,0
+CUST-00388,64,16.74,1,Month-to-month,North,Active,0
+CUST-00389,11,97.22,4,One year,South,Active,0
+CUST-00390,54,115.99,3,Month-to-month,West,Churned,1
+CUST-00391,13,56.89,1,One year,East,Active,0
+CUST-00392,27,26.26,3,Two year,West,Active,0
+CUST-00393,43,58.79,2,Month-to-month,East,Active,0
+CUST-00394,52,59.28,3,Two year,North,Active,0
+CUST-00395,63,61.2,2,Two year,South,Active,0
+CUST-00396,4,42.73,2,Two year,West,Active,0
+CUST-00397,14,76.59,2,Month-to-month,East,Active,0
+CUST-00398,20,75.49,3,Two year,North,Active,0
+CUST-00399,23,,3,Month-to-month,North,Active,0
+CUST-00400,71,78.98,2,Month-to-month,West,Active,0
+CUST-00401,56,106.05,1,Two year,West,Active,0
+CUST-00402,23,68.44,0,One year,West,Active,0
+CUST-00403,69,58.25,1,One year,North,Active,0
+CUST-00404,36,62.16,2,Month-to-month,East,Churned,1
+CUST-00405,36,77.31,1,Two year,West,Active,0
+CUST-00406,31,30.39,3,One year,East,Active,0
+CUST-00407,11,68.29,0,Month-to-month,East,Active,0
+CUST-00408,67,57.19,1,Two year,South,Active,0
+CUST-00409,1,101.96,2,Month-to-month,North,Churned,1
+CUST-00410,13,61.52,2,Month-to-month,South,Active,0
+CUST-00411,17,98.36,2,One year,East,Active,0
+CUST-00412,20,42.93,0,Two year,North,Active,0
+CUST-00413,10,76.75,2,Month-to-month,North,Active,0
+CUST-00414,2,71.39,2,Month-to-month,South,Active,0
+CUST-00415,49,47.62,4,Month-to-month,West,Active,0
+CUST-00416,69,,2,Two year,East,Active,0
+CUST-00417,9,89.25,2,Month-to-month,East,Churned,1
+CUST-00418,22,58.52,2,One year,East,Active,0
+CUST-00419,36,31.16,3,Two year,North,Active,0
+CUST-00420,66,64.65,0,Month-to-month,South,Active,0
+CUST-00421,50,46.95,2,One year,North,Active,0
+CUST-00422,55,58.15,0,One year,West,Active,0
+CUST-00423,42,63.37,4,Two year,West,Active,0
+CUST-00424,30,30.89,3,Month-to-month,South,Active,0
+CUST-00425,15,,4,Month-to-month,South,Churned,1
+CUST-00426,62,74.64,1,Month-to-month,South,Active,0
+CUST-00427,58,54.55,1,One year,West,Active,0
+CUST-00428,2,13.71,1,One year,South,Active,0
+CUST-00429,51,80.7,2,Month-to-month,West,Churned,1
+CUST-00430,6,70.45,2,Month-to-month,South,Churned,1
+CUST-00431,53,50.72,3,Two year,East,Active,0
+CUST-00432,59,,2,Month-to-month,East,Active,0
+CUST-00433,10,81.72,1,Month-to-month,South,Active,0
+CUST-00434,31,71.99,2,One year,West,Active,0
+CUST-00435,9,112.65,6,Month-to-month,East,Churned,1
+CUST-00436,41,73.4,1,Month-to-month,West,Active,0
+CUST-00437,66,72.75,1,Month-to-month,West,Active,0
+CUST-00438,6,61.66,1,Month-to-month,North,Active,0
+CUST-00439,29,,2,One year,North,Active,0
+CUST-00440,70,77.5,0,One year,East,Active,0
+CUST-00441,22,90.03,1,One year,South,Active,0
+CUST-00442,10,54.57,0,Month-to-month,South,Active,0
+CUST-00443,35,56.29,1,Two year,North,Active,0
+CUST-00444,37,55.42,2,Month-to-month,South,Active,0
+CUST-00445,48,80.82,1,One year,South,Active,0
+CUST-00446,23,94.97,0,Month-to-month,South,Churned,1
+CUST-00447,68,55.82,4,One year,East,Active,0
+CUST-00448,37,56.5,2,Month-to-month,East,Active,0
+CUST-00449,21,71.28,6,Month-to-month,South,Churned,1
+CUST-00450,69,60.08,1,Month-to-month,North,Active,0
+CUST-00451,66,84.04,2,Month-to-month,East,Active,0
+CUST-00452,36,19.96,1,Month-to-month,North,Active,0
+CUST-00453,2,48.47,4,One year,South,Active,0
+CUST-00454,43,49.35,1,Two year,South,Active,0
+CUST-00455,40,18.59,0,Month-to-month,North,Active,0
+CUST-00456,11,45.73,1,Two year,South,Active,0
+CUST-00457,46,46.7,3,One year,South,Active,0
+CUST-00458,60,60.98,2,Two year,West,Active,0
+CUST-00459,8,87.26,2,One year,West,Active,0
+CUST-00460,52,60.1,1,One year,North,Active,0
+CUST-00461,10,44.38,2,One year,East,Active,0
+CUST-00462,54,63.86,5,One year,East,Active,0
+CUST-00463,30,85.98,1,Two year,South,Active,0
+CUST-00464,1,45.48,2,Month-to-month,South,Churned,1
+CUST-00465,69,46.79,2,Month-to-month,West,Active,0
+CUST-00466,12,76.17,2,Month-to-month,South,Churned,1
+CUST-00467,43,60.57,2,Two year,North,Active,0
+CUST-00468,13,77.95,1,Month-to-month,South,Active,0
+CUST-00469,67,64.73,1,One year,South,Active,0
+CUST-00470,53,79.03,3,Two year,South,Active,0
+CUST-00471,58,44.3,3,Two year,North,Active,0
+CUST-00472,31,64.76,0,Month-to-month,North,Active,0
+CUST-00473,34,60.79,5,One year,West,Active,0
+CUST-00474,46,40.68,0,Two year,North,Active,0
+CUST-00475,56,33.73,3,Month-to-month,East,Active,0
+CUST-00476,61,,2,One year,East,Active,0
+CUST-00477,2,57.98,3,Month-to-month,East,Churned,1
+CUST-00478,48,44.55,0,One year,West,Active,0
+CUST-00479,8,63.08,3,One year,North,Active,0
+CUST-00480,21,87.56,3,Month-to-month,South,Churned,1
+CUST-00481,59,19.39,1,Month-to-month,North,Active,0
+CUST-00482,18,35.07,2,Month-to-month,East,Active,0
+CUST-00483,57,46.54,1,Month-to-month,East,Active,0
+CUST-00484,33,94.22,1,One year,West,Active,0
+CUST-00485,17,70.65,2,Month-to-month,South,Active,0
+CUST-00486,24,80.35,3,Month-to-month,North,Churned,1
+CUST-00487,38,42.2,5,One year,West,Active,0
+CUST-00488,55,42.61,4,One year,East,Active,0
+CUST-00489,44,73.96,1,One year,West,Active,0
+CUST-00490,67,66.17,5,Two year,South,Active,0
+CUST-00491,62,75.97,3,Month-to-month,South,Active,0
+CUST-00492,54,61.25,1,Two year,South,Active,0
+CUST-00493,43,70.56,3,Month-to-month,East,Active,0
+CUST-00494,21,68.16,2,One year,North,Active,0
+CUST-00495,30,80.56,0,Two year,West,Active,0
+CUST-00496,9,81.14,3,Two year,North,Active,0
+CUST-00497,27,32.6,3,One year,South,Active,0
+CUST-00498,66,20.05,1,One year,South,Active,0
+CUST-00499,31,85.03,1,Month-to-month,East,Active,0
