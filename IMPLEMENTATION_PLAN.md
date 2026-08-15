@@ -7,7 +7,7 @@ This document translates the PRD into a phased delivery plan and repository layo
 ```text
 ml-debugger/
 ├── app/
-│   ├── app.py                 # Streamlit entrypoint and upload workflow
+│   ├── main.py                # Streamlit entrypoint and upload workflow
 │   ├── pages/                 # Overview, Data Health, Leakage, Features, Models, Diagnostics, Recommendations
 │   └── components/            # Shared session helpers and widgets
 ├── src/

@@ -126,8 +126,7 @@ def select_best_model(models: list[ModelMetrics], problem_type: ProblemType) -> 
     if not models:
         return None
     metric = "r2" if problem_type == ProblemType.REGRESSION else "f1"
-    reverse = problem_type == ProblemType.REGRESSION
-    return sorted(models, key=lambda m: m.metrics.get(metric, float("-inf")), reverse=reverse)[0].name
+    return max(models, key=lambda m: m.metrics.get(metric, float("-inf"))).name
 
 
 def detect_overfitting(model: ModelMetrics, problem_type: ProblemType) -> DiagnosticIssue | None:

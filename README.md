@@ -19,7 +19,7 @@ python -m venv .venv
 pip install -r requirements.txt
 python examples/generate_sample.py
 pytest
-streamlit run app/app.py
+streamlit run app/main.py
 ```
 
 ## Usage
